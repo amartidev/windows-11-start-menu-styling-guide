@@ -144,7 +144,7 @@ The theme styles can also be imported manually. To do that, follow these steps:
   "controlStyles[18].styles[1]": "Background:=$Glass",
   "controlStyles[18].styles[2]": "BorderThickness=$BorderThickness",
   "controlStyles[18].styles[3]": "CornerRadius=$CornerRadius",
-  "controlStyles[19].target": "Windows.UI.Xaml.Controls.Border#StartDropShadow",
+  "controlStyles[19].target": "Windows.UI.Xaml.Controls.Border#RootGridDropShadow",
   "controlStyles[19].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[20].target": "Windows.UI.Xaml.Controls.Border#RightCompanionDropShadow",
   "controlStyles[20].styles[0]": "CornerRadius=$CornerRadius",
